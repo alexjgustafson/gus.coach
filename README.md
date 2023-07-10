@@ -25,4 +25,5 @@ You can preview the production build with `npm run preview`.
 
 ## Netlify deploy
 
-* [SvelteKit on Netlify](https://docs.netlify.com/integrations/frameworks/sveltekit/?_gl=1%2a1rrs3ru%2a_gcl_au%2aMTg4NjI0OTI4LjE2ODkwMTQ1MDc.)
+* [SvelteKit on Netlify Docs](https://docs.netlify.com/integrations/frameworks/sveltekit/?_gl=1%2a1rrs3ru%2a_gcl_au%2aMTg4NjI0OTI4LjE2ODkwMTQ1MDc.)
+* [Svelte Adapter for Netlify Docs](https://kit.svelte.dev/docs/adapter-netlify)
