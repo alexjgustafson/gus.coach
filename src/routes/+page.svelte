@@ -25,12 +25,12 @@
   </div>
 </div>
 <div class="w-full border-opacity-50 text-center py-12 bg-secondary">
-  <div class="container mx-auto px-2 text-secondary-content">
+  <div class="container mx-auto px-2 lg:px-48 xl:px-80 text-secondary-content">
     <h2 class="text-2xl md:text-3xl py-4 font-bold">Coach-in-Training Special</h2>
-    <p >Join Gus in his early career journey and enjoy our small group training policy for all training sessions. Your early trust doesn't just support Gus; it also ensures you become a valued founding member of a growing strength community.</p>
+    <p >Join Gus in his early career journey and enjoy a "pay what you want" policy for personal training sessions. Your early trust doesn't just support Gus; it also ensures you become a valued founding member of a growing strength community.</p>
     <p class="flex flex-col text-center py-6">
-      <span class="text-3xl font-bold">$20</span>
-      <span class="text-xs">suggested contribution</span>
+      <span class="text-3xl font-bold">$30</span>
+      <span class="text-xs">suggested contribution per session</span>
     </p>
   </div>
 </div>
