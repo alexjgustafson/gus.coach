@@ -37,6 +37,21 @@
     </p>
   </div>
 </div>
+<div class="w-full border-opacity-50 py-12">
+  <div class="container mx-auto px-2">
+    <h2 class="text-2xl md:text-3xl py-4 mb-8 font-bold text-center">Coach Alex "Gus" Gustafson</h2>
+    <div class="flex flex-col lg:flex-row px-2 lg:px-24 xl:px-48">
+      <div class="flex-none flex flex-col items-center pb-12">
+        <img src="alex-power-clean.png" class="w-96"/>
+        <caption class="text-left text-xs w-full">Alex racking a power clean.</caption>
+      </div>
+      <div class="flex-1 lg:pl-6">
+        <h3 class="text-xl font-bold">Ready to Start?</h3>
+        <p>Give Gus a call or text at (502) 472-3042 to embark on your strength training journey.</p>
+      </div>
+    </div>
+  </div>
+</div>
 <footer class="footer p-10 bg-neutral text-neutral-content">
   <blockquote>
     Strong people are harder to kill than weak people, and more useful in general.
