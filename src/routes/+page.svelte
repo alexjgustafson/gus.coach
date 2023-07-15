@@ -2,9 +2,12 @@
   <div class="hero-content text-center">
     <div class="max-w-md">
       <h1 class="text-5xl font-bold">Gus's Barbell Club</h1>
-      <h2 class="text-3xl py-4">Train with Starting Strength in Louisville, KY</h2>
-      <p class="py-2">Alex "Gus" Gustafson, Coach-in-Training</p>
-      <p class="text-xl py-8">Call or text to start: (502) 472-3042</p>
+      <p class="text-lg py-4">Experience the power of Starting Strength training in Louisville, KY. Join Gus's Barbell Club and help shape the foundation of a dynamic strength community.
+      </p>
+      <div class="flex flex-col text-2xl py-8">
+        <p class="font-bold mb-4">Call or Text to Start Training</p>
+        <p><a href="tel:5024723042" class="btn btn-primary">(502) 472-3042</a></p>
+      </div>
     </div>
   </div>
 </div>
