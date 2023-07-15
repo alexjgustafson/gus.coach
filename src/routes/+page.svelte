@@ -2,8 +2,9 @@
     <title>Gus's Barbell Club</title>
     <meta name="description" content="Gus's Barbell Club offers strength training in Louisville, KY.">
 </svelte:head>
-<div class="hero min-h-screen bg-base-200">
-  <div class="hero-content text-center">
+<div class="hero min-h-screen" style="background-image:url('foggy-gym.jpg');">
+  <div class="hero-overlay bg-opacity-60"></div>
+  <div class="hero-content text-center text-neutral-content">
     <div class="max-w-md">
       <h1 class="text-5xl font-bold">Gus's Barbell Club</h1>
       <p class="text-lg py-4">Experience the power of Starting Strength training in Louisville, KY. Join Gus's Barbell Club and help shape the foundation of a dynamic strength community.
@@ -12,6 +13,9 @@
         <p class="font-bold mb-4">Call or Text to Start Training</p>
         <p><a href="tel:5024723042" class="btn btn-secondary">(502) 472-3042</a></p>
       </div>
+    </div>
+    <div class="hero__photo-credit text-xs absolute bottom-0 right-0">
+      <a href="https://www.pexels.com/photo/close-up-shot-of-a-barbell-6389516/" target="_blank">Photo by Tima Miroshnihcenko</a>
     </div>
   </div>
 </div>
