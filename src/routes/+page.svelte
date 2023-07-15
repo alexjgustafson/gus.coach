@@ -2,9 +2,8 @@
   <div class="hero-content text-center">
     <div class="max-w-md">
       <h1 class="text-5xl font-bold">Gus's Barbell Club</h1>
-      <h2 class="text-3xl py-4">Train the Starting Strength Method</h2>
+      <h2 class="text-3xl py-4">Train with Starting Strength in Louisville, KY</h2>
       <p class="py-2">Alex "Gus" Gustafson, Coach-in-Training</p>
-      <p class="py-2">Starting Strength in Louisville, KY</p>
       <p class="text-xl py-8">Call or text to start: (502) 472-3042</p>
     </div>
   </div>
