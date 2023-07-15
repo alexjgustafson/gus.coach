@@ -1,5 +1,6 @@
 <svelte:head>
     <title>Gus's Barbell Club</title>
+    <meta name="description" content="Gus's Barbell Club offers strength training in Louisville, KY.">
 </svelte:head>
 <div class="hero min-h-screen bg-base-200">
   <div class="hero-content text-center">
@@ -9,7 +10,7 @@
       </p>
       <div class="flex flex-col text-2xl py-8">
         <p class="font-bold mb-4">Call or Text to Start Training</p>
-        <p><a href="tel:5024723042" class="btn btn-primary">(502) 472-3042</a></p>
+        <p><a href="tel:5024723042" class="btn btn-secondary">(502) 472-3042</a></p>
       </div>
     </div>
   </div>
@@ -22,7 +23,7 @@
         <p>As a method designed to promote rapid strength gains and overall fitness improvement, Starting Strength will help you achieve the best results possible. Whether new to strength training or an experienced lifter, this proven method can help you break through plateaus and reach new personal records.</p>
       </div>
       <div class="flex-none flex flex-col items-center">
-        <img src="bottom-of-squat-600-400.jpg" alt="lifter at the bottom of a squat" class="w-96"/>
+        <img src="bottom-of-squat-600-400.jpg" alt="lifter at the bottom of a squat" class="w-96" width="600" height="400" />
         <cite class="text-right w-full">
           <span class="text-xs"><a href="https://startingstrength.com/training/back-angle-in-the-squat-part-2-how-to-do-it">Image credit: Starting Strength</a></span>
         </cite>
@@ -45,8 +46,8 @@
     <h2 class="text-2xl md:text-3xl py-4 mb-8 font-bold text-center">Coach Alex "Gus" Gustafson</h2>
     <div class="flex flex-col lg:flex-row px-2 lg:px-24 xl:px-48">
       <div class="flex-none flex flex-col items-center pb-12">
-        <img src="alex-power-clean.png" class="w-96"/>
-        <caption class="text-left text-xs w-full">Alex racking a power clean.</caption>
+        <img src="alex-power-clean.png" alt="Alex racking a power clean." class="w-96" width="1080 " height="572"/>
+        <figcaption class="text-left text-xs w-full">Alex racking a power clean.</figcaption>
       </div>
       <div class="flex-1 lg:pl-6">
         <h3 class="text-xl font-bold">Ready to Start?</h3>
