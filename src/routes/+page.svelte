@@ -55,9 +55,12 @@
         <img src="alex-power-clean.png" alt="Gus racking a power clean." class="w-96" width="1080 " height="572"/>
         <figcaption class="text-left text-xs w-full">Gus racking a power clean.</figcaption>
       </div>
-      <div class="flex-1 lg:pl-6">
-        <h3 class="text-xl font-bold">Ready to Start?</h3>
-        <p>Give Gus a call or text at (502) 472-3042 to embark on your strength training journey.</p>
+      <div class="flex-1 lg:pl-6 prose">
+        <ul>
+          <li>Aspiring Starting Strength Coach</li>
+          <li>Web Developer Following His Passion for Fitness</li>
+          <li>CrossFit Level One Trainer</li>
+        </ul>
       </div>
     </div>
   </div>
