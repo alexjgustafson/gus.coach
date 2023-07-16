@@ -36,7 +36,7 @@
   </div>
 </div>
 <div class="w-full border-opacity-50 text-center py-12 bg-secondary">
-  <div class="container mx-auto px-2 lg:px-48 xl:px-80 text-secondary-content">
+  <div class="container mx-auto px-6 lg:px-48 xl:px-80 text-secondary-content">
     <h2 class="text-3xl md:text-5xl py-4 font-bold font-accent">Coach-in-Training Special</h2>
     <div class="prose text-secondary-content">
       <p >Join Gus in his early career journey and enjoy a "pay what you want" policy for personal training sessions. Your early trust doesn't just support Gus; it also ensures you become a valued founding member of a growing strength community.</p>
@@ -48,7 +48,7 @@
     <p class="font-accent text-2xl"><a href="tel:5024723042">Call (502) 472-3042 to Get Started</a></p>
   </div>
 </div>
-<div class="w-full border-opacity-50 py-12 bg-neutral">
+<div class="w-full border-opacity-50 py-12 px-6 lg:px-48 bg-neutral">
   <div class="container mx-auto prose text-neutral-content">
     <h2 class="text-neutral-content lg:text-4xl">Training Process</h2>
     <h3 class="text-neutral-content">1. Schedule Your First Session</h3>
