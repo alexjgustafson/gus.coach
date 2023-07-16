@@ -6,11 +6,11 @@
   <div class="hero-overlay bg-opacity-60"></div>
   <div class="hero-content text-center text-neutral-content">
     <div class="max-w-md">
-      <h1 class="text-5xl font-bold">Gus's Barbell Club</h1>
-      <p class="text-lg py-4 prose text-neutral-content">Experience the power of Starting Strength training in Louisville, KY. Join Gus's Barbell Club and help shape the foundation of a dynamic strength community.
-      </p>
-      <div class="flex flex-col text-2xl py-8">
-        <p class="font-bold mb-4">Call or Text to Start Training</p>
+      <div class="prose text-neutral-content">
+        <h1 class="text-neutral-content text-5xl">Gus's Barbell Club</h1>
+        <p class="">Experience the power of Starting Strength training in Louisville, KY. Join Gus's Barbell Club and help shape the foundation of a dynamic strength community.
+        </p>
+        <h2 class="text-neutral-content text-3xl">Call or Text to Start Training</h2>
         <p><a href="tel:5024723042" class="btn btn-secondary">(502) 472-3042</a></p>
       </div>
     </div>
