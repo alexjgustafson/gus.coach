@@ -7,7 +7,7 @@
   <div class="hero-content text-center text-neutral-content">
     <div class="max-w-md">
       <h1 class="text-5xl font-bold">Gus's Barbell Club</h1>
-      <p class="text-lg py-4">Experience the power of Starting Strength training in Louisville, KY. Join Gus's Barbell Club and help shape the foundation of a dynamic strength community.
+      <p class="text-lg py-4 prose text-neutral-content">Experience the power of Starting Strength training in Louisville, KY. Join Gus's Barbell Club and help shape the foundation of a dynamic strength community.
       </p>
       <div class="flex flex-col text-2xl py-8">
         <p class="font-bold mb-4">Call or Text to Start Training</p>
@@ -23,7 +23,7 @@
   <div class="container mx-auto px-2">
     <h2 class="text-2xl md:text-3xl py-4 mb-8 font-bold text-center">Starting Strength: The Key to Optimal Results</h2>
     <div class="flex flex-col lg:flex-row px-2 lg:px-24 xl:px-48">
-      <div class="flex-1 lg:pr-6 pb-12">
+      <div class="flex-1 lg:pr-6 pb-12 prose">
         <p>As a method designed to promote rapid strength gains and overall fitness improvement, Starting Strength will help you achieve the best results possible. Whether new to strength training or an experienced lifter, this proven method can help you break through plateaus and reach new personal records.</p>
       </div>
       <div class="flex-none flex flex-col items-center">
@@ -38,7 +38,9 @@
 <div class="w-full border-opacity-50 text-center py-12 bg-secondary">
   <div class="container mx-auto px-2 lg:px-48 xl:px-80 text-secondary-content">
     <h2 class="text-2xl md:text-3xl py-4 font-bold">Coach-in-Training Special</h2>
-    <p >Join Gus in his early career journey and enjoy a "pay what you want" policy for personal training sessions. Your early trust doesn't just support Gus; it also ensures you become a valued founding member of a growing strength community.</p>
+    <div class="prose text-secondary-content">
+      <p >Join Gus in his early career journey and enjoy a "pay what you want" policy for personal training sessions. Your early trust doesn't just support Gus; it also ensures you become a valued founding member of a growing strength community.</p>
+    </div>
     <p class="flex flex-col text-center py-6">
       <span class="text-3xl font-bold">$30</span>
       <span class="text-xs">suggested contribution per session</span>
