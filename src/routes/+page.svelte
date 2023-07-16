@@ -95,7 +95,7 @@
       <p><a href="tel:5024723042" class="btn btn-secondary">(502) 472-3042</a></p>
 
       <div class="my-8" id="payment">
-        <h2>Pay for a Session</h2>
+        <h2 class="font-bold mb-4">Pay for a Session</h2>
         <div class="hidden md:block">
           <script async
             src="https://js.stripe.com/v3/buy-button.js">
