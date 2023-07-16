@@ -75,7 +75,9 @@
         <ul>
           <li>Aspiring Starting Strength Coach</li>
           <li>Web Developer Following His Passion for Fitness</li>
-          <li>CrossFit Level One Trainer</li>
+          <li><a href="https://optimizemenutrition.com/nutrition-masterclass/" target="_blank">OptimizeMe Nutrition | Nutrition Essentials Masterclass (Spring 2022)</a></li>
+          <li><a href="https://www.alexjgustafson.fitness" target="_blank">CrossFit Level One Trainer</a></li>
+          <li>Hobbyist Olympic Weightlifter</li>
         </ul>
       </div>
     </div>
