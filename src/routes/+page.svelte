@@ -50,8 +50,8 @@
     <h2 class="text-2xl md:text-3xl py-4 mb-8 font-bold text-center">Coach Alex "Gus" Gustafson</h2>
     <div class="flex flex-col lg:flex-row px-2 lg:px-24 xl:px-48">
       <div class="flex-none flex flex-col items-center pb-12">
-        <img src="alex-power-clean.png" alt="Alex racking a power clean." class="w-96" width="1080 " height="572"/>
-        <figcaption class="text-left text-xs w-full">Alex racking a power clean.</figcaption>
+        <img src="alex-power-clean.png" alt="Gus racking a power clean." class="w-96" width="1080 " height="572"/>
+        <figcaption class="text-left text-xs w-full">Gus racking a power clean.</figcaption>
       </div>
       <div class="flex-1 lg:pl-6">
         <h3 class="text-xl font-bold">Ready to Start?</h3>
@@ -61,8 +61,14 @@
   </div>
 </div>
 <footer class="footer p-10 bg-neutral text-neutral-content">
-  <blockquote>
-    Strong people are harder to kill than weak people, and more useful in general.
-    <cite>- Mark Rippetoe</cite>
-  </blockquote>
+  <div class="container flex flex-col md:flex-row md:justify-between">
+    <blockquote class="px-6">
+      <span class="block">Strong people are harder to kill than weak people, and more useful in general.</span>
+      <cite class="block">- Mark Rippetoe</cite>
+    </blockquote>
+    <div class="flex flex-col text-2xl px-6 py-6 md:py-0">
+      <p class="font-bold mb-4">Call or Text to Start Training</p>
+      <p><a href="tel:5024723042" class="btn btn-secondary">(502) 472-3042</a></p>
+    </div>
+  </div>
 </footer>
