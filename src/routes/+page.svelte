@@ -73,6 +73,7 @@
       </figure>
       <div class="flex-1 lg:pl-6 prose">
         <ul>
+          <li><a href="https://www.instagram.com/alexjgustafson/" target="_blank">@alexjgustafson on Instagram</a></li>
           <li>Aspiring Starting Strength Coach</li>
           <li>Web Developer Following His Passion for Fitness</li>
           <li><a href="https://optimizemenutrition.com/nutrition-masterclass/" target="_blank">OptimizeMe Nutrition | Nutrition Essentials Masterclass (Spring 2022)</a></li>
