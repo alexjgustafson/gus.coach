@@ -1,9 +1,14 @@
 <footer class="footer p-10 bg-neutral text-neutral-content">
   <div class="container flex flex-col md:flex-row md:justify-between">
-    <blockquote class="px-6">
-      <span class="block">Strong people are harder to kill than weak people, and more useful in general.</span>
-      <cite class="block">- Mark Rippetoe</cite>
-    </blockquote>
+    <div class="px-6 flex-col">
+      <a href="/">
+        <h2 class="text-neutral-content text-2xl font-bold mb-4">Gus's Barbell Club</h2>
+      </a>
+      <blockquote>
+        <span class="block">Strong people are harder to kill than weak people, and more useful in general.</span>
+        <cite class="block">- Mark Rippetoe</cite>
+      </blockquote>
+    </div>
     <div class="flex flex-col text-2xl px-6 py-6 md:py-0">
       <p class="font-bold mb-4">Call or Text to Start Training</p>
       <p><a href="tel:5024723042" class="btn btn-secondary">(502) 472-3042</a></p>
