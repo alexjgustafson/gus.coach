@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Gus's Barbell Club</title>
+    <title>Gus's Barbell Club - Starting Strength in Louisville, KY</title>
     <meta name="description" content="Gus's Barbell Club offers strength training in Louisville, KY.">
 </svelte:head>
 <div class="hero min-h-screen" style="background-image:url('foggy-gym.jpg');">
