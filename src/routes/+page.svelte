@@ -73,12 +73,10 @@
       </figure>
       <div class="flex-1 lg:pl-6 prose">
         <ul>
-          <li><a href="https://www.instagram.com/alexjgustafson/" target="_blank">@alexjgustafson on Instagram</a></li>
           <li>Aspiring Starting Strength Coach</li>
-          <li>Web Developer Following His Passion for Fitness</li>
-          <li><a href="https://optimizemenutrition.com/nutrition-masterclass/" target="_blank">OptimizeMe Nutrition | Nutrition Essentials Masterclass (Spring 2022)</a></li>
+          <li>Web Developer Following His Passion for Strength and Fitness</li>
+          <li>Trained in Adult and Pediatric First Aid/CPR/AED</li>
           <li><a href="https://www.alexjgustafson.fitness" target="_blank">CrossFit Level One Trainer</a></li>
-          <li>Hobbyist Olympic Weightlifter</li>
         </ul>
       </div>
     </div>
