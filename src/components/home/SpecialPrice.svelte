@@ -5,7 +5,7 @@
       <p >Join Gus in his early career journey and enjoy a "pay what you want" policy for personal training sessions. Your early trust doesn't just support Gus; it also ensures you become a valued founding member of a growing strength community.</p>
     </div>
     <p class="flex flex-col text-center py-6">
-      <span class="text-3xl font-bold">$30</span>
+      <span class="text-3xl font-bold">$60</span>
       <span class="text-xs">suggested contribution per session</span>
     </p>
     <p class="font-accent text-2xl"><a href="tel:5024723042">Call (502) 472-3042 to Get Started</a></p>
