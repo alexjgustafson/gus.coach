@@ -7,11 +7,18 @@
         <figcaption class="text-left text-xs w-full">Gus racking a power clean.</figcaption>
       </figure>
       <div class="flex-1 lg:pl-6 prose">
+        <p>Gus is an aspiring Starting Strength coach in Louisville, KY. When not training, he is a freelance web developer, husband and father, and a chess patzer.</p>
+        <h3>Certificates</h3>
         <ul>
-          <li>Aspiring Starting Strength Coach</li>
-          <li>Web Developer Following His Passion for Strength and Fitness</li>
-          <li>Trained in Adult and Pediatric First Aid/CPR/AED</li>
-          <li><a href="https://www.alexjgustafson.fitness" target="_blank">CrossFit Level One Trainer</a></li>
+          <li>Red Cross certified in Adult and Pediatric First Aid/CPR/AED</li>
+          <li>CrossFit Level One Trainer</li>
+          <li>CrossFit: Lesson Planning, Programming, Scaling, Spot the Flaw</li>
+        </ul>
+        <h3>Additional Seminars Attended</h3>
+        <ul>
+          <li>Press and Bench Press Camp (Starting Strength Indianapolis)</li>
+          <li>Squat and Deadlift Camp (Starting Strength Indianapolis)</li>
+          <li>OptimizeMe Nutrition: Nutrition Essentials Masterclass</li>
         </ul>
       </div>
     </div>
