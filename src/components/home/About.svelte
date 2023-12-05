@@ -14,7 +14,7 @@
           <li>CrossFit Level One Trainer</li>
           <li>CrossFit: Lesson Planning, Programming, Scaling, Spot the Flaw</li>
         </ul>
-        <h3>Additional Seminars Attended</h3>
+        <h3>Seminars and Camps</h3>
         <ul>
           <li>Press and Bench Press Camp (Starting Strength Indianapolis)</li>
           <li>Squat and Deadlift Camp (Starting Strength Indianapolis)</li>
