@@ -14,10 +14,11 @@
           <li>CrossFit Level One Trainer</li>
           <li>CrossFit: Lesson Planning, Programming, Scaling, Spot the Flaw</li>
         </ul>
-        <h3>Seminars and Camps</h3>
+        <h3>Seminars and Camps Attended</h3>
         <ul>
-          <li>Press and Bench Press Camp (Starting Strength Indianapolis)</li>
+          <li>Starting Strengh Seminar</li>
           <li>Squat and Deadlift Camp (Starting Strength Indianapolis)</li>
+          <li>Press and Bench Press Camp (Starting Strength Indianapolis)</li>
           <li>OptimizeMe Nutrition: Nutrition Essentials Masterclass</li>
         </ul>
       </div>

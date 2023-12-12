@@ -6,7 +6,7 @@
     <div class="flex-none flex flex-col items-center">
       <img src="rip-coaching-gus-deadlift.png" alt="Rip looks approvingly as Gus deadlifts at the Wichita Falls Athletic Club" class="w-96" width="384" height="485" />
       <cite class="text-right w-full">
-        <span class="text-xs text-secondary-content">Rip coaches Alex during the Starting Strength Seminar.</span>
+        <span class="text-xs text-secondary-content">Rip coaches Gus during the Starting Strength Seminar.</span>
       </cite>
     </div>
     <div class="flex flex-col justify-center flex-1 lg:pl-6 pb-12 prose text-secondary-content">
