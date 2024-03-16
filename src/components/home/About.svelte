@@ -16,7 +16,7 @@
         </ul>
         <h3>Seminars and Camps Attended</h3>
         <ul>
-          <li>Starting Strengh Seminar</li>
+          <li>Starting Strength Seminar</li>
           <li>Squat and Deadlift Camp (Starting Strength Indianapolis)</li>
           <li>Press and Bench Press Camp (Starting Strength Indianapolis)</li>
           <li>OptimizeMe Nutrition: Nutrition Essentials Masterclass</li>

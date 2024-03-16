@@ -5,12 +5,12 @@
 <script>
   import Hero from '../components/home/Hero.svelte';
   import StartingStrengthMethod from '../components/home/StartingStrengthMethod.svelte';
-  import SpecialPrice from '../components/home/SpecialPrice.svelte';
+  import LocationComingSoon from '../components/home/LocationComingSoon.svelte';
   import TrainingProcess from '../components/home/TrainingProcess.svelte';
   import About from '../components/home/About.svelte';
 </script>
 <Hero />
 <StartingStrengthMethod />
-<SpecialPrice />
+<LocationComingSoon />
 <TrainingProcess />
 <About />
