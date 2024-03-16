@@ -4,9 +4,13 @@
       <a href="/">
         <h2 class="text-neutral-content text-2xl font-bold mb-4">Gus's Barbell Club</h2>
       </a>
-      <blockquote>
+      <blockquote class="mb-6">
         <span class="block">Strong people are harder to kill than weak people, and more useful in general.</span>
         <cite class="block">- Mark Rippetoe</cite>
+      </blockquote>
+      <blockquote class="max-w-prose pr-6">
+        <span class="block">No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable.</span>
+        <cite class="block">- Socrates</cite>
       </blockquote>
     </div>
     <div class="flex flex-col text-2xl px-6 py-6 md:py-0">
@@ -21,13 +25,13 @@
           </script>
     
           <stripe-buy-button
-            buy-button-id="buy_btn_1NUYxqKqLqCcN0PdqOLhIsy8"
+            buy-button-id="buy_btn_1OuytDKqLqCcN0PduX8bfJMs"
             publishable-key="pk_live_51NUYkdKqLqCcN0PdyKbbZRGwg2sTu3QxH23SZrfhswEdUjFVXAvBuPjhUkfkeUH6piXmTkSCDOdQWX9lj95WR6Ku00mwHM66LJ"
           >
           </stripe-buy-button>
         </div>
         <div class="md:hidden">
-          <a href="https://buy.stripe.com/fZe6rk3h85ebcTKfYY" class="btn btn=primary">Checkout with Stripe</a>
+          <a href="https://buy.stripe.com/bIYbLEg3UeOLaLC145" class="btn btn=primary">Checkout with Stripe</a>
         </div>
       </div>
     </div>
