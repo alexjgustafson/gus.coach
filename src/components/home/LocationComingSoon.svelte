@@ -9,9 +9,17 @@
         <span class="text-xs text-secondary-content">Rip coaches Gus during the Starting Strength Seminar.</span>
       </cite>
     </div>
-    <div class="flex flex-col justify-center flex-1 lg:pl-6 pb-12 prose text-secondary-content">
+    <div class="flex flex-col justify-center flex-1 lg:pl-6 pb-12 prose text-secondary-content text-left">
       <div class="prose text-secondary-content">
-        <p>A barbell training facility in Louisville, KY is in the works. Equipment and environment will be setup ideally for the Starting Strength program: the tools you need to get strong, personal and semi-private coaching, and no distractions. A place to get the work done.</p>
+        <p>A barbell training studio in Louisville, KY is being outfitted. Equipment and environment will be setup ideally for the Starting Strength program: the tools you need to get strong, personal coaching, and no distractions. A place to get the <span class="whitespace-nowrap">work done.</span></p>
+        <div class="location">
+          <address>
+            <p class="my-0">1235 E. Oak Street</p>
+            <p class="my-0">Suite B</p>
+            <p class="my-0">Louisville, KY 40204</p>
+          </address>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12535.733750854557!2d-85.7301249658173!3d38.23465186067106!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88690d2bf16d3f07%3A0x5b48dda8d7407beb!2s1235%20E%20Oak%20St%2C%20Louisville%2C%20KY%2040204!5e0!3m2!1sen!2sus!4v1711853000339!5m2!1sen!2sus" width="300" height="225" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      </div>
       </div>
     </div>
   </div>

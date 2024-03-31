@@ -12,6 +12,15 @@
         <span class="block">No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable.</span>
         <cite class="block">- Socrates</cite>
       </blockquote>
+      <h2 class="text-neutral-content text-2xl font-bold my-4">Location</h2>
+      <address>
+        <p class="my-0">1235 E. Oak Street</p>
+        <p class="my-0">Suite B</p>
+        <p class="my-0">Louisville, KY 40204</p>
+      </address>
+      <h2 class="text-neutral-content text-2xl font-bold my-4">Hours</h2>
+      <p>By Appointment Only</p>
+
     </div>
     <div class="flex flex-col text-2xl px-6 py-6 md:py-0">
       <p class="font-bold mb-4">Call or Text to Start Training</p>
