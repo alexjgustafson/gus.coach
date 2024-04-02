@@ -1,7 +1,6 @@
-<div class="bg-secondary p-10">
+<div class="bg-secondary p-10 hidden">
   <div class="container prose text-secondary-content px-6">
-    <form name="netlify-form-example" method="POST" netlify-honeypot="bot-field" data-netlify="true">
-      <input type="hidden" name="form-name" value="netlify-form-example" />
+    <form name="netlify-form-test" method="POST" data-netlify="true">
       <label for="name">Name</label>
       <input name="name" id="name" required placeholder="Name" type="text" />
       <label for="email">Email</label>
