@@ -1,6 +1,6 @@
 <div class="w-full border-opacity-50 text-center py-12 bg-secondary">
   <div class="container mx-auto px-6 lg:px-48 xl:px-80 text-secondary-content">
-    <h2 class="text-3xl md:text-5xl py-4 font-bold font-accent">New Location Coming Soon</h2>
+    <h2 class="text-3xl md:text-5xl py-4 font-bold font-accent">Train in a Private Gym</h2>
   </div>
   <div class="flex flex-col lg:flex-row px-2 lg:px-24 xl:px-48">
     <div class="flex-none flex flex-col items-center">
@@ -11,7 +11,7 @@
     </div>
     <div class="flex flex-col justify-center flex-1 lg:pl-6 pb-12 prose text-secondary-content text-left">
       <div class="prose text-secondary-content">
-        <p>A barbell training studio in Louisville, KY is being outfitted. Equipment and environment will be setup ideally for the Starting Strength program: the tools you need to get strong, personal coaching, and no distractions. A place to get the <span class="whitespace-nowrap">work done.</span></p>
+        <p>Gus's barbell training gym in Louisville, KY is outfitted with exactly what you need for a Starting Strength program. The tools you need to get strong, personal coaching, and no distractions. A place to get the work done and move on with <span class="whitespace-nowrap">your day.</span></p>
         <div class="location">
           <address>
             <p class="my-0">1235 E. Oak Street</p>
