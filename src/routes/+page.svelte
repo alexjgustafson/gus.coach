@@ -8,9 +8,11 @@
   import Location from '../components/home/Location.svelte';
   import TrainingProcess from '../components/home/TrainingProcess.svelte';
   import About from '../components/home/About.svelte';
+  import Newsletter from '../components/home/Newsletter.svelte';
 </script>
 <Hero />
 <StartingStrengthMethod />
 <Location />
 <TrainingProcess />
 <About />
+<Newsletter />
