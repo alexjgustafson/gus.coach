@@ -6,7 +6,10 @@
         <p>As a method designed to promote rapid strength gains and overall fitness improvement, Starting Strength will help you achieve the best results possible. Whether new to strength training or an experienced lifter, this proven method can help you break through plateaus and reach new personal records.</p>
       </div>
       <div class="flex-none flex flex-col items-center">
-        <img src="bottom-of-squat-600-400.jpg" alt="lifter at the bottom of a squat" class="w-96" width="600" height="400" />
+        <picture>
+          <source srcset="bottom-of-squat-600-400.webp" type="image/webp" />
+          <img src="bottom-of-squat-600-400.jpg" alt="lifter at the bottom of a squat" class="w-96" width="600" height="400" />
+        </picture>
         <cite class="text-right w-full">
           <span class="text-xs"><a href="https://startingstrength.com/training/back-angle-in-the-squat-part-2-how-to-do-it">Image credit: Starting Strength</a></span>
         </cite>

@@ -4,7 +4,10 @@
   </div>
   <div class="flex flex-col lg:flex-row px-2 lg:px-24 xl:px-48">
     <div class="flex-none flex flex-col items-center">
-      <img src="rip-coaching-gus-deadlift.png" alt="Rip looks approvingly as Gus deadlifts at the Wichita Falls Athletic Club" class="w-96" width="384" height="485" />
+      <picture>
+        <source srcset="rip-coaching-gus-deadlift.webp" type="image/webp" />
+        <img src="rip-coaching-gus-deadlift.png" alt="Rip looks approvingly as Gus deadlifts at the Wichita Falls Athletic Club" class="w-96" width="384" height="485" />
+      </picture>
       <cite class="text-right w-full">
         <span class="text-xs text-secondary-content">Rip coaches Gus during the Starting Strength Seminar.</span>
       </cite>
