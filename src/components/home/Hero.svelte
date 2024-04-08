@@ -1,6 +1,12 @@
-<div class="hero min-h-screen" style="background-image:url('foggy-gym.jpg');">
-  <div class="hero-overlay bg-opacity-60"></div>
-  <div class="hero-content text-center text-neutral-content">
+<div class="hero min-h-screen overflow-hidden relative">
+  <div class="absolute z-0 hero-overlay">
+    <picture>
+      <source srcset="foggy-gym.webp" type="image/webp" />
+      <img class="object-bottom object-cover w-full h-full" src="foggy-gym.jpg" alt="A foggy gym."/>
+    </picture>
+  </div>
+  <div class="hero-overlay bg-opacity-60 z-10"></div>
+  <div class="hero-content text-center text-neutral-content z-20">
     <div class="max-w-md">
       <div class="prose text-neutral-content">
         <h1 class="text-neutral-content text-5xl">Gus's Barbell Club</h1>
