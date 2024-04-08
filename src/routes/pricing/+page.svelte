@@ -17,43 +17,33 @@
 </div>
 <div class="w-full border-opacity-50 py-12">
   <div class="container mx-auto px-2 prose">
-    <h2>Introductory Training Programs</h2>
-    <p>All programs include a one-hour complimentary intro session.</p>
+    <h2 class="text-4xl">Monthly Memberships</h2>
 
-    <h3>Express</h3>
-    <h4>$265 6-week Package</h4>
-    <p class="font-accent">For athletes who want to kickstart their training.</p>
+    <h3>Premium Personal Training</h3>
+    <h4>$480 per month</h4>
     <ul>
-      <li>Four personal training sessions available as desired within a six-week span</li>
-      <li>Two remote check-ins per week for video form checks, programming, Q&A</li>
-      <li>Paid as $265 one-time</li>
+      <li>Eight personal training sessions</li>
+      <li>Remote coaching between sessions</li>
+      <li>10% discount on additional personal training sessions</li>
+      <li>10% discount on Habit Accountability Program</li>
     </ul>
 
-    <h3>Effective</h3>
-    <h4>$675 12-week package</h4>
-    <p class="font-accent">For athletes who value personal coaching throughout their novice program.</p>
+    <h3>Standard Personal Training</h3>
+    <h4>$240 per month</h4>
     <ul>
-      <li>One personal training session per week for 12 weeks</li>
-      <li>Two remote check-ins per week for video form checks, programming, Q&A</li>
-      <li>Additional sessions during 12 weeks available at a discounted rate of $55</li>
-      <li>Paid as $225 per month over 3 months</li>
+      <li>Four personal training sessions</li>
+      <li>Remote coaching between sessions</li>
     </ul>
 
-    <h3>Elite</h3>
-    <h4>$795 12- to 16-week package</h4>
-    <p class="font-accent">For athletes who are all-in on beginning their training journey.</p>
+    <h3>Habit Accountability Program</h3>
+    <h4>$95 per month</h4>
     <ul>
-      <li>One personal training session per week for 12 weeks</li>
-      <li>Two remote check-ins per week for video form checks, programming, Q&A</li>
-      <li>Four additional training sessions anytime within 16 weeks of beginning.</li>
-      <li>Additional sessions during 16 weeks available at a discounted rate of $50</li>
-      <li>Paid as $265 per month over 3 months</li>
+      <li>Collaborative Habit Tracking</li>
+      <li>Accountability check-ins daily every weekday</li>
+      <li>Discussion check-in weekly</li>
     </ul>
 
-    <h3>Alumni</h3>
-    <p>After completing your introductory program receive discounted pricing by continuing a monthly subscription.</p>
-
-    <h2>Á La Carte</h2>
-    <p>$60 per session. Does not include remote coaching between sessions.</p>
+    <h2 class="text-4xl">Á La Carte Training Sessions</h2>
+    <p>$60 per session without remote coaching between sessions.</p>
   </div>
 </div>
